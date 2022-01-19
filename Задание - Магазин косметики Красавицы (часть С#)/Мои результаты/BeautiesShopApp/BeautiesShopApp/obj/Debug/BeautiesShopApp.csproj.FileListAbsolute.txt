@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание - Магазин косметики Красавицы (часть С#)\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\BeautiesShopApp.exe.config
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание - Магазин косметики Красавицы (часть С#)\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\BeautiesShopApp.exe
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание - Магазин косметики Красавицы (часть С#)\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\BeautiesShopApp.pdb
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание - Магазин косметики Красавицы (часть С#)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание - Магазин косметики Красавицы (часть С#)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\MainWindow.g.cs
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание - Магазин косметики Красавицы (часть С#)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\App.g.cs
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание - Магазин косметики Красавицы (часть С#)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp_MarkupCompile.cache
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание - Магазин косметики Красавицы (часть С#)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp_MarkupCompile.lref
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание - Магазин косметики Красавицы (часть С#)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\MainWindow.baml
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание - Магазин косметики Красавицы (часть С#)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.g.resources
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание - Магазин косметики Красавицы (часть С#)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.Properties.Resources.resources
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание - Магазин косметики Красавицы (часть С#)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание - Магазин косметики Красавицы (часть С#)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание - Магазин косметики Красавицы (часть С#)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.exe
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание - Магазин косметики Красавицы (часть С#)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.pdb
