@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание - Магазин косметики Красавицы (часть С#)\Мои результаты\BeautiesShopApp\BeautiesShopApp\App.xaml
-11151548125
+31964116811
 2-1987928237
-22785721704
+25-1322299601
 181663654341
-MainWindow.xaml;
+MainWindow.xaml;Pages\PageAddProduct.xaml;Pages\PageMain.xaml;
 
-False
+True
 

@@ -12,23 +12,17 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using BeautiesShopApp.AppDataFile;
-using BeautiesShopApp.Pages;
 
-namespace BeautiesShopApp
+namespace BeautiesShopApp.Pages
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для PageMain.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class PageMain : Page
     {
-        public MainWindow()
+        public PageMain()
         {
             InitializeComponent();
-            ConnectOdb.conObj = new BeautiesShopDBEntities();
-            FrameObj.frameMain = FrmMain;
-
-            FrmMain.Navigate(new PageMain());
         }
     }
 }
