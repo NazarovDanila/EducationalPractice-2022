@@ -1,0 +1,59 @@
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\bin\Debug\BeautiesShopApplication.exe.config
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\bin\Debug\BeautiesShopApplication.exe
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\bin\Debug\BeautiesShopApplication.pdb
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\bin\Debug\EntityFramework.dll
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\bin\Debug\EntityFramework.xml
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\MainWindow.g.cs
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\Pages\PageMain.g.cs
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\App.g.cs
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication_Content.g.cs
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication_MarkupCompile.cache
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication_MarkupCompile.lref
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\App.baml
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\MainWindow.baml
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\Pages\PageMain.baml
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication.g.resources
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication.Properties.Resources.resources
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication.csproj.CopyComplete
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication.exe
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication.pdb
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\Pages\PageAddProduct.g.cs
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\Pages\PageEditNew.g.cs
+C:\Users\User\OneDrive\Документы\GitHub\Educational-Practice_2022\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\Pages\PageProduct.g.cs
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\Pages\PageAddProduct.g.cs
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\Pages\PageEditNew.g.cs
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\Pages\PageMain.g.cs
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\Pages\PageProduct.g.cs
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication_Content.g.cs
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication_MarkupCompile.cache
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication_MarkupCompile.lref
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication.exe
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication.pdb
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\bin\Debug\BeautiesShopApplication.exe.config
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\bin\Debug\BeautiesShopApplication.exe
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\bin\Debug\BeautiesShopApplication.pdb
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\App.baml
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\Pages\PageAddProduct.baml
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\Pages\PageEditNew.baml
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\Pages\PageMain.baml
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\Pages\PageProduct.baml
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication.g.resources
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication.Properties.Resources.resources
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики (Версия 1)\Мои результаты\BeautiesShopApplication\BeautiesShopApplication\obj\Debug\BeautiesShopApplication.csproj.CopyComplete
