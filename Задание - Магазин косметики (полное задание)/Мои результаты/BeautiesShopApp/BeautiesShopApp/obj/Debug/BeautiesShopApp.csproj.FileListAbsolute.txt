@@ -1,0 +1,54 @@
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\BeautiesShopApp.exe.config
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\BeautiesShopApp.exe
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\BeautiesShopApp.pdb
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.Properties.Resources.resources
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.csproj.CopyComplete
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.exe
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.pdb
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.MainPage.resources
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.Pages.ProductPage.resources
+C:\Users\User\Desktop\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.Pages.WorkWithDataPege.resources
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\BeautiesShopApp.exe.config
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\BeautiesShopApp.exe
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\BeautiesShopApp.pdb
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.MainPage.resources
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.Pages.ProductPage.resources
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.Pages.WorkWithDataPege.resources
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.Properties.Resources.resources
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.csproj.CopyComplete
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.exe
+C:\Users\User\Desktop\Задания на удалёнке\Задание 25.01.2022 - Магазин косметики\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.pdb
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\BeautiesShopApp.exe.config
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\BeautiesShopApp.exe
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\BeautiesShopApp.pdb
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.MainPage.resources
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.Pages.ProductPage.resources
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.Pages.WorkWithDataPege.resources
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.Properties.Resources.resources
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.csproj.CopyComplete
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.exe
+C:\Users\User\Desktop\Задания на удалёнке\Задание - Магазин косметики (полное)\Мои результаты\BeautiesShopApp\BeautiesShopApp\obj\Debug\BeautiesShopApp.pdb
